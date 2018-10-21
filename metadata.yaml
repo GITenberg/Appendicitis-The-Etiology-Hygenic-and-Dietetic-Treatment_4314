@@ -1,5 +1,5 @@
 _repo: Appendicitis-The-Etiology-Hygenic-and-Dietetic-Treatment_4314
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -27,5 +27,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'RC'
 - !lcsh 'Appendicitis'
+- GITenberg
 title: 'Appendicitis: The Etiology, Hygenic and Dietetic Treatment'
 url: http://www.gutenberg.org/ebooks/4314
